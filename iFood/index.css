@@ -92,11 +92,7 @@ body {
 }
 
 .imagens {
-    display: block;
-    align-items: center;
-    flex-wrap: wrap;
     gap: 10px;
-    align-items: center;
     padding: 0 12px 15px 12px;
 }
 
@@ -133,8 +129,6 @@ body {
 
 .cupom-1, .cupom-2 {
     display: flex;
-    justify-content: center;
-    align-items: center;
     width: 300px;
     height: 130px;
     border-radius: 12px;
